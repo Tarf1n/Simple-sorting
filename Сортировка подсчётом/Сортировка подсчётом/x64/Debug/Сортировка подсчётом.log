@@ -1,0 +1,3 @@
+﻿  Source.cpp
+C:\Users\timam\source\repos\Сортировка подсчётом\Сортировка подсчётом\Source.cpp(36,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Сортировка подсчётом.vcxproj -> C:\Users\timam\source\repos\Сортировка подсчётом\x64\Debug\Сортировка подсчётом.exe
